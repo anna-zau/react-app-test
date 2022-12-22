@@ -90,4 +90,6 @@
    отправляется в ветку `gh-pages`. В противном случае, в логе выполнения
    скрипта будет указано в чем проблема.
 
+##Test App example
+
 ![Example of the App](./assets/exampleApp.jpg)
