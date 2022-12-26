@@ -18,7 +18,7 @@ const NavItem = styled(NavLink)`
   }
 `;
 
-export const Sales = () => {
+const Sales = () => {
   return (
     <Box as="main" display="flex" flexDirection="column">
       <Box as="header" borderBottom="1px solid black" p={4}>
@@ -34,3 +34,5 @@ export const Sales = () => {
     </Box>
   );
 };
+
+export default Sales;
